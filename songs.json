@@ -1,0 +1,44 @@
+[
+    {
+        "titolo": "Bring Me to Life",
+        "artista": "Evanescence",
+        "cover_url": "images/bring-me-to-life.jpeg",
+        "anno_pubblicazione": 2003,
+        "genere": "Rock"
+    },
+    {
+        "titolo": "Fanculo",
+        "artista": "22 Simba feat. Marracash",
+        "cover_url": "images/fanculo.jpeg",
+        "anno_pubblicazione": 2023,
+        "genere": "Rap"
+    },
+    {
+        "titolo": "Ragazzo Normale",
+        "artista": "Leon Faun",
+        "cover_url": "images/ragazzo-normale.jpg",
+        "anno_pubblicazione": 2021,
+        "genere": "Pop"
+    },
+    {
+        "titolo": "Egoista",
+        "artista": "Sayf",
+        "cover_url": "images/egoista.png",
+        "anno_pubblicazione": 2022,
+        "genere": "Rap"
+    },
+    {
+        "titolo": "Serial Killer",
+        "artista": "Madman",
+        "cover_url": "images/serial-killer.jpeg",
+        "anno_pubblicazione": 2017,
+        "genere": "Rap"
+    },
+    {
+        "titolo": "Beautiful",
+        "artista": "Eminem",
+        "cover_url": "images/beautiful.jpeg",
+        "anno_pubblicazione": 2009,
+        "genere": "Rap"
+    }
+]
