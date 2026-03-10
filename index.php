@@ -31,10 +31,10 @@ require_once("./functions.php");
 
             </div>
 
-            <!-- <button class="btn btn-outline-secondary btn-sm d-flex align-items-center gap-2">
+            <a href="./newSong.php" class="btn btn-outline-secondary btn-sm d-flex align-items-center gap-2">
                 <i class="bi bi-plus-lg"></i>
                 Aggiungi disco
-            </button> -->
+            </a>
 
         </div>
     </nav>
